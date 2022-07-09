@@ -1,0 +1,8 @@
+x64/*
+vs14/*
+vs12/*
+.vs/*
+*.tlog
+Release/*.tlog
+Release/*.txt
+*.pdb

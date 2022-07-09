@@ -1,0 +1,530 @@
+﻿  main.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: expansão de macro produzindo 'defined' tem comportamento indefinido
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(505,24): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[5]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(505,21): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(510,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[5]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(510,22): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(516,41): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[5]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(516,38): warning C4024: 'atoi': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(540,36): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[5]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(540,33): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(546,36): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[5]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(546,33): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(550,50): warning C4047: 'função': 'LPARAM' difere em níveis de indireção de 'char *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(550,42): warning C4024: 'SendMessageA': tipos diferentes para parâmetro formal e real 4
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(483,10): warning C4101: 'timeval': variável local não referenciada
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(585,15): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(585,10): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(586,15): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(586,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(587,15): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(587,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(588,15): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(588,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(590,35): warning C4047: 'função': 'LPCSTR' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(590,30): warning C4024: 'SetWindowTextA': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(618,18): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[4][4]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(618,9): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(623,27): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[4]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(623,19): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(628,19): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[255]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(628,9): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(628,33): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[4]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(628,30): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(629,19): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[255]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(629,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(630,19): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[255]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(630,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(630,33): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[4]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(630,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(631,19): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[255]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(631,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(632,19): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[255]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(632,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(632,33): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[4]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(632,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(633,19): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[255]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(633,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(634,19): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[255]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(634,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(634,33): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[4]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(634,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(635,19): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[255]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(635,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(636,19): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[255]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(636,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(640,35): warning C4047: 'função': 'PCSTR' difere em níveis de indireção de 'char *[255]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(640,25): warning C4024: 'DnsQuery_A': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(646,16): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(646,10): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(647,16): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(647,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(647,30): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[4]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(647,27): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(648,16): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(648,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(649,16): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(649,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(649,30): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[4]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(649,27): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(650,16): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(650,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(651,16): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(651,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(651,30): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[4]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(651,27): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(652,16): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(652,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(653,16): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(653,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(653,30): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[4]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(653,27): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(654,16): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(654,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(655,16): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(655,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(656,36): warning C4047: 'função': 'LPCSTR' difere em níveis de indireção de 'char *[1024]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(656,30): warning C4024: 'SetWindowTextA': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(668,22): warning C4047: 'função': 'LPSTR' difere em níveis de indireção de 'char *[100]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(668,18): warning C4024: 'GetComputerNameA': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(669,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(669,9): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(670,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(670,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(670,34): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[100]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(670,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(676,19): warning C4047: 'função': 'LPSTR' difere em níveis de indireção de 'char *[100]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(676,15): warning C4024: 'GetUserNameA': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(677,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(677,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(678,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(678,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(678,34): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[100]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(678,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(683,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(683,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(685,40): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(687,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(687,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(689,34): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(689,64): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(691,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(691,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(693,34): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(693,58): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(693,88): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(695,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(695,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(699,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(699,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(701,38): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(701,62): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(701,89): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(701,113): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(701,143): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(703,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(703,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(705,35): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(705,63): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(705,87): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(705,111): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(705,141): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(707,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(707,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(725,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(725,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(726,11): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(726,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(727,11): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(727,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(728,11): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(728,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(729,11): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(729,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(730,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(730,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(731,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(731,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(731,31): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(731,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(732,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(732,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(733,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(733,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(733,31): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(733,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(734,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(734,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(735,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(735,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(735,31): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(735,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(736,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(736,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(737,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(737,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(737,31): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(737,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(739,32): warning C4133: 'função': tipos incompatíveis - de 'unsigned __int64 *' para 'ULARGE_INTEGER *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(739,37): warning C4133: 'função': tipos incompatíveis - de 'unsigned __int64 *' para 'ULARGE_INTEGER *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(739,42): warning C4133: 'função': tipos incompatíveis - de 'unsigned __int64 *' para 'ULARGE_INTEGER *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(740,14): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[100]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(740,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(742,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(742,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(743,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(743,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(743,34): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[100]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(743,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(760,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(760,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(761,17): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(761,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(762,18): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(762,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(763,20): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(763,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(764,19): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(764,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(765,18): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(765,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(766,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(766,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(766,37): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(766,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(767,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(767,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(768,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(768,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(768,39): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(768,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(769,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(769,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(770,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(770,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(770,38): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(770,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(771,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(771,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(772,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(772,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(772,38): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(772,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(773,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(773,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(774,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(774,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(774,40): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(774,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(793,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(793,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(794,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(794,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(795,17): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(795,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(796,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(796,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(797,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(797,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(798,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(798,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(799,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(799,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(799,36): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(799,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(800,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(800,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(801,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(801,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(801,36): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(801,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(802,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(802,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(803,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(803,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(803,36): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(803,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(804,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(804,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(805,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(805,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(805,36): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(805,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(806,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(806,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(807,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(807,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(807,37): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(807,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(809,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(809,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(810,18): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(810,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(811,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(811,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(811,38): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(811,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(823,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(823,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(824,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(824,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(825,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(825,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(825,36): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(825,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(835,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(835,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(839,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(839,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(843,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(843,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(847,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(847,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(851,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(851,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(855,29): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(855,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(862,12): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(862,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(863,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(863,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(864,28): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(864,9): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(864,32): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(864,30): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(866,55): warning C4047: 'função': 'LPCSTR' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(866,36): warning C4024: 'SetWindowTextA': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(720,8): warning C4101: 'c_u1': variável local não referenciada
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(720,21): warning C4101: 'c_u2': variável local não referenciada
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(875,41): warning C4047: 'função': 'LPSTR' difere em níveis de indireção de 'char *[102400]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(875,32): warning C4024: 'GetWindowTextA': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(878,27): warning C4047: '=': 'LPSTR' difere em níveis de indireção de 'char **'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(886,16): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(886,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(887,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(887,16): warning C4024: 'fopen': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(901,27): warning C4047: '=': 'LPSTR' difere em níveis de indireção de 'char **'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(909,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(909,16): warning C4024: 'fopen': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(911,43): warning C4047: 'função': 'LPCSTR' difere em níveis de indireção de 'char *[102400]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(911,33): warning C4024: 'SetWindowTextA': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1029,19): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[200]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1029,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1029,21): warning C4477: 'sprintf': a cadeia de formato '%ld' requer um argumento do tipo 'long', mas um argumento variadic 1 tem o tipo 'BYTE *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1031,26): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[200]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1031,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1033,17): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1033,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1035,24): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1035,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1099,1): warning C4090: 'inicializando': qualificadores 'const' diferentes
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1137,26): warning C4047: 'função': 'LPCSTR' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1137,21): warning C4024: 'CreateFileA': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1144,14): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[200]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1144,10): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1146,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1146,17): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1148,21): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[200]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1148,17): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1162,15): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1162,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1163,15): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1163,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1164,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1164,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1165,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1165,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1166,12): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1166,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1167,15): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1167,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1168,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1168,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1170,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1170,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1172,23): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1172,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1174,23): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1174,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1176,19): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1176,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1178,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1178,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1191,15): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1191,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1192,15): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1192,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1193,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1193,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1194,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1194,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1195,12): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1195,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1196,15): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1196,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1197,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1197,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1199,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1199,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1201,23): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1201,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1203,23): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1203,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1205,19): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1205,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1207,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1207,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1220,15): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1220,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1221,15): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1221,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1222,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1222,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1223,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1223,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1224,12): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1224,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1225,15): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1225,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1226,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1226,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1228,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1228,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1230,23): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1230,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1232,23): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1232,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1234,19): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1234,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1236,22): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1236,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1248,35): warning C4047: 'função': 'LPCSTR' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1248,30): warning C4024: 'SHGetFileInfoA': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1302,25): warning C4047: '=': 'LPSTR' difere em níveis de indireção de 'char **'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1311,13): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[500]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1311,10): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1312,13): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[500]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1312,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1312,20): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1312,15): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1313,38): warning C4047: 'função': 'LPCSTR' difere em níveis de indireção de 'char *[500]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1313,35): warning C4024: 'SetWindowTextA': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1332,32): warning C4047: 'função': 'LPCSTR' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1332,21): warning C4024: 'CreateFileA': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1341,13): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[102400]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1341,10): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1342,13): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[102400]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1342,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1342,20): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[10240]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1342,15): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1343,13): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[102400]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1343,10): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1347,16): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1347,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1347,18): warning C4477: 'sprintf': a cadeia de formato '%02X' requer um argumento do tipo 'unsigned int', mas um argumento variadic 1 tem o tipo 'char *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1348,14): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[102400]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1348,11): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1349,14): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[102400]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1349,11): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1349,20): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[20]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1349,16): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1350,14): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[102400]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1350,11): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1355,40): warning C4047: 'função': 'LPCSTR' difere em níveis de indireção de 'char *[102400]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1355,37): warning C4024: 'SetWindowTextA': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1326,8): warning C4101: 'string': variável local não referenciada
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1387,32): warning C4047: '=': 'LPSTR' difere em níveis de indireção de 'char **'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1454,29): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1454,15): warning C4024: 'fopen': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1404,20): warning C4101: 'cli': variável local não referenciada
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1480,72): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1480,68): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1551,29): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1551,15): warning C4024: 'fopen': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1577,80): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1577,76): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1597,34): warning C4047: '=': 'LPSTR' difere em níveis de indireção de 'char **'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1608,33): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1608,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1617,33): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1617,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1701,14): warning C4047: 'função': 'char *const ' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1701,12): warning C4024: 'sprintf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1702,21): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1702,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2012,32): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2012,15): warning C4024: 'fopen': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1980,13): warning C4101: 'res': variável local não referenciada
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(1979,20): warning C4101: 'cli': variável local não referenciada
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2061,75): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2061,71): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2117,32): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2117,15): warning C4024: 'fopen': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2154,83): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2154,79): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2173,37): warning C4047: '=': 'LPSTR' difere em níveis de indireção de 'char **'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2184,36): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2184,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2193,36): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2193,19): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2423,81): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2423,77): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2673,83): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2673,79): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2712,98): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2712,94): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2816,91): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2816,87): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2844,60): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2844,56): warning C4024: 'CreateToolhelp32Snapshot': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2874,49): warning C4047: '=': 'HANDLE' difere em níveis de indireção de 'BOOL'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2888,79): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2888,75): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2908,59): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2908,55): warning C4024: 'CreateToolhelp32Snapshot': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2933,60): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2933,56): warning C4024: 'CreateToolhelp32Snapshot': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2985,77): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(2985,73): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3114,29): warning C4244: '=': conversão de 'my_ulonglong' para 'int', possível perda de dados
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3284,78): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3284,74): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3399,78): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3399,74): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3455,81): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3455,77): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3593,54): warning C4047: 'função': 'INTERNET_PORT' difere em níveis de indireção de 'char *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3593,46): warning C4024: 'InternetConnectA': tipos diferentes para parâmetro formal e real 3
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3680,90): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3680,86): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3690,88): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3690,84): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3763,77): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3763,73): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3889,73): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(3889,69): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4106,47): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[100]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4106,32): warning C4024: 'strcmp': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4111,50): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[100]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4111,35): warning C4024: 'strcmp': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4128,29): warning C4047: '=': 'LPSTR' difere em níveis de indireção de 'char **'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4133,34): warning C4047: '=': 'WORD' difere em níveis de indireção de 'char [5]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4140,18): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4140,12): warning C4024: 'strcat': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4141,24): warning C4047: 'função': 'const char *' difere em níveis de indireção de 'char *[252]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4141,18): warning C4024: 'fopen': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4147,43): warning C4047: 'função': 'LPSTR' difere em níveis de indireção de 'char *[102400]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4147,34): warning C4024: 'GetWindowTextA': tipos diferentes para parâmetro formal e real 2
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4213,55): warning C4047: 'função': 'DWORD' difere em níveis de indireção de 'void *'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4213,51): warning C4024: 'CreateThread': tipos diferentes para parâmetro formal e real 5
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4374,18): warning C4047: 'função': 'char *' difere em níveis de indireção de 'char *[50]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4374,9): warning C4024: 'strcpy': tipos diferentes para parâmetro formal e real 1
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4396,15): warning C4047: 'função': 'LPCSTR' difere em níveis de indireção de 'char *[50]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4396,15): warning C4024: 'CreateWindowExA': tipos diferentes para parâmetro formal e real 3
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4403,14): warning C4047: 'função': 'LPCSTR' difere em níveis de indireção de 'char *[50]'
+C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\main.c(4403,14): warning C4024: 'CreateWindowExA': tipos diferentes para parâmetro formal e real 3
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  WinSec_F_Toolkit.vcxproj -> C:\Users\Public\C_C_Plus_Plus\WinSec_F_Toolkit\Release\winsec_f_toolkit.exe

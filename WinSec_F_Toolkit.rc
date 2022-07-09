@@ -1,0 +1,182 @@
+// Microsoft Visual C++ generated resource script.
+//
+#pragma code_page(65001)
+
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Português (Brasil) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_PTB)
+LANGUAGE LANG_PORTUGUESE, SUBLANG_PORTUGUESE_BRAZILIAN
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "icon1.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "bitmap1.bmp"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU
+BEGIN
+    POPUP "&Security"
+    BEGIN
+        MENUITEM "Port Scan",                   ID_SEGURAN40002
+        MENUITEM "IP Investigation",            ID_SEGURAN40004
+        POPUP "Control Remote PC"
+        BEGIN
+            POPUP "Control Remote PC"
+            BEGIN
+                MENUITEM "Active Mode",                 ID_CONTROLARWINDOWS_MODOATIVO
+                MENUITEM "Passive Mode",                ID_CONTROLARWINDOWS_MODOPASSIVO
+            END
+            POPUP "I wanna be controlled"
+            BEGIN
+                MENUITEM "Active Mode (Server)",        ID_QUEROSERCONTROLADO_MODOATIVO
+                MENUITEM "Passive Mode (Cliente)",      ID_QUEROSERCONTROLADO_MODOPASSIVO
+            END
+        END
+        MENUITEM "Kill Local Process",          ID_SEGURAN40028
+        MENUITEM "Hash Algorithm (Checksum)",   ID_SEGURAN40050
+    END
+    POPUP "&Network"
+    BEGIN
+        MENUITEM "File Server (SMB)",           ID_REDE_SERVIDORDEARQUIVOS
+        MENUITEM "FTP",                         ID_REDE_FTP
+        MENUITEM "DNS Query",                   ID_REDE_CONSULTADNS
+        MENUITEM "MySQL Database",              ID_REDE_BANCODEDADOSMYSQL
+        MENUITEM "Net Adapters",                ID_REDE_ADAPTADORESDEREDE
+        MENUITEM "Chat",                        ID_REDE_CHAT
+    END
+    POPUP "&Information"
+    BEGIN
+        MENUITEM "Check System Info",           ID_INFORMA40014
+        MENUITEM "File Analysis",               ID_INFORMA40017
+        MENUITEM "Open Command Prompt",         ID_INFORMA40020
+        MENUITEM "List System Processes",       ID_INFORMA40027
+    END
+    POPUP "&Files"
+    BEGIN
+        MENUITEM "Open Text Editor",            ID_ARQUIVOS_ABRIREDITORDETEXTO
+        MENUITEM "See Binary File Content",     ID_ARQUIVOS_VERCONTE40023
+        POPUP "File Transfer"
+        BEGIN
+            MENUITEM "TCP Mode",                    ID_TRANSFER40031
+            MENUITEM "UDP Mode",                    ID_TRANSFER40032
+        END
+        MENUITEM "Make Tree from Directories in Local PC", ID_ARQUIVOS_GERAR40026
+    END
+    POPUP "&About"
+    BEGIN
+        MENUITEM "Program Details",             ID_SOBRE_DETALHESDOPROGRAMA
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOGBAR DIALOGEX 0, 0, 424, 222
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD
+FONT 8, "MS Shell Dlg", 400, 0, 0x0
+BEGIN
+    EDITTEXT        IDC_EDIT1,131,119,132,26,ES_PASSWORD | ES_AUTOHSCROLL
+    LTEXT           "Estático",IDC_STATIC,154,47,126,36
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_DIALOGBAR, DIALOG
+    BEGIN
+        RIGHTMARGIN, 419
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_DIALOGBAR AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // Português (Brasil) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
